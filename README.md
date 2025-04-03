@@ -1,2 +1,2 @@
 # BAN_Bachelors_Thesis_Team_11
-For sharing code and other files for the ING thesis project
+For sharing code files and other files we may use during the ING thesis project
